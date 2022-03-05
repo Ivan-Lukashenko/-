@@ -1,0 +1,119 @@
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\appsettings.Development.json
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\appsettings.json
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.exe
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.deps.json
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.runtimeconfig.json
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.runtimeconfig.dev.json
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ref\Тестовое задание на MVC.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.pdb
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.Views.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Тестовое задание на MVC.Views.pdb
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Humanizer.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.csproj.AssemblyReference.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.AssemblyInfoInputs.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.AssemblyInfo.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.csproj.CoreCompileInputs.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.RazorAssemblyInfo.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.RazorAssemblyInfo.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\staticwebassets\Тестовое задание на MVC.StaticWebAssets.Manifest.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\staticwebassets\Тестовое задание на MVC.StaticWebAssets.xml
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\scopedcss\bundle\Тестовое задание на MVC.styles.css
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.TagHelpers.input.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.TagHelpers.output.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.RazorCoreGenerate.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.RazorTargetAssemblyInfo.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.RazorTargetAssemblyInfo.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.Views.pdb
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.csproj.CopyComplete
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\ref\Тестовое задание на MVC.dll
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.pdb
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Тестовое задание на MVC.genruntimeconfig.cache
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Home\JoinLinkedList.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Home\Sum.cshtml.g.cs
+D:\Games\Проекты\Тестовое задание на MVC\Тестовое задание на MVC\obj\Debug\net5.0\Razor\Views\Home\VerifyPolindrom.cshtml.g.cs

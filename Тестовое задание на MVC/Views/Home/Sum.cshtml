@@ -1,0 +1,34 @@
+﻿@model int
+@{
+    ViewData["Title"] = "Test";
+}
+
+<h6>1. Реализовать приложение C#, которое предоставит функционал сложения каждого второго нечетного числа из массива чисел тела запроса и вернёт их сумму по модулю.</h6>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Sum" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>Введите числа через пробел:</label><br />
+                <input type="text" name="stringNumbers" /><br />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Проверить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model >= 0)
+{
+    <button class="button-1">Ответ: @Model</button>
+}
+
+<div>
+    <a asp-controller="Home" asp-action="Index">На главную</a>
+</div>
+
+
+
+
